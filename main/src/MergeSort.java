@@ -1,3 +1,4 @@
+package main.src;
 public class MergeSort {
     public static void sort(int[] data) {
         mergeSort(data, 0, data.length-1);

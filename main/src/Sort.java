@@ -1,3 +1,4 @@
+package main.src;
 public class Sort {
     public static void main(String[] args) {
         int[] n = {1000, 5000, 10000, 20000, 50000, 100000};

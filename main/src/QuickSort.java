@@ -1,3 +1,4 @@
+package main.src;
 public class QuickSort {
     public static void sort(int[] data) {
         quicksort(data, 0, data.length-1);
